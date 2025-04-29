@@ -6,5 +6,3 @@
 
 ![Badge](https://media2.dev.to/dynamic/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F10%2FVersion2-06.png)
 
-https://learn.microsoft.com/api/achievements/share/en-us/HirenChauhan-7037/URYHDU93?sharingId=3C148EFD97639985
-
